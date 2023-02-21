@@ -1,4 +1,4 @@
 <?php 
-$token = '6279496566:AAEqKAlZyhPhtUo3VlxacNOujC7X5qZiDhs';
-$chat_id = '6037927891';
+$token = '5884071695:AAH0FFu33BX8lChNQpG8zzfovQhSXkTe5DM';
+$chat_id = '-1001858940397';
 ?>
